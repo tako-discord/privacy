@@ -12,6 +12,16 @@ When you use Tako, we may collect the following types of information:
 - Message Content: We receive every message Tako has access to, to automatically translate if needed. We also receive your message when someone uses the "Get Raw Message" command. However we do not store any messages.
 - Profile information: We collect information from your Discord profile, such as your username, avatar and roles from specific servers, in order to personalize your experience within Tako.
 
+For [our Documentation](https://docs.tako-bot.com) we use [GitBook](https://policies.gitbook.com/privacy-and-security/privacy) and [Plausible](https://plausible.io/privacy).
+Here's the data we get from GitBook and Plausible (anonymously):
+- Page Views
+- Country
+- Operating System
+- Browser
+- Approx. Screen Size
+- Average Visit Duration
+- Page Reviews (☹️, 😐, 😀)
+
 ## Use of Collected Information:
 
 The information that we collect is used to provide and improve our service. We may use your information for the following purposes:
