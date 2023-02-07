@@ -8,7 +8,6 @@ When you use Tako, we may collect the following types of information:
 - Discord user ID: We collect your Discord user ID in order to identify you and your account within our service.
 - Server ID: We collect the ID of the Discord server that you have added Tako to in order to provide you with the appropriate features and services.
 - Command usage: We store data about some commands that you use within Tako in order to make the commands usable and functioning.
-- Discord Presence: Once you change your activity, Tako receives it and looks if it is a banned game and wheter it should ban you from specific servers or not. You can prevent this by disallowing Activies to show up on certain servers.
 - Message Content: We receive every message Tako has access to, to automatically translate if needed. We also receive your message when someone uses the "Get Raw Message" command. However we do not store any messages.
 - Profile information: We collect information from your Discord profile, such as your username, avatar and roles from specific servers, in order to personalize your experience within Tako.
 
